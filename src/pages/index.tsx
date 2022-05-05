@@ -8,7 +8,7 @@ const Index: NextPage = (props: inferSSRProps<typeof getServerSideProps>) => {
   const { data, isLoading, error } = trpc.useQuery(["hellomessage"]);
   return (
     <>
-      <div className="flex w-full h-[600px] align-center justify-center">
+      <div className="flex w-full h-auto align-center justify-center py-20">
         <div className="flex flex-col gap-8">
           <Logo />
           <div className="flex flex-col gap-6">
