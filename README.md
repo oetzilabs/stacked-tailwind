@@ -1,6 +1,6 @@
-This is a starterpack which includes [ReactJs](https://reactjs.org/), [tRPC](https://trpc.io/), [Prisma](https://www.prisma.io/), [NextJs](https://nextjs.org/), [Next-Auth](https://next-auth.js.org/), [Next-SEO](https://github.com/garmeeh/next-seo) & [Chakra-UI](https://chakra-ui.com/).
+This is a starterpack which includes [ReactJs](https://reactjs.org/), [tRPC](https://trpc.io/), [Prisma](https://www.prisma.io/), [NextJs](https://nextjs.org/), [Next-Auth](https://next-auth.js.org/), [Next-SEO](https://github.com/garmeeh/next-seo) & [TailwindCSS](https://tailwindcss.com/).
 
-![Stacked Image](https://i.imgur.com/AWaUxYi.png)
+![Stacked Image](https://i.imgur.com/Gir2Ns0.png)
 
 
 
@@ -25,7 +25,7 @@ This is a starterpack which includes [ReactJs](https://reactjs.org/), [tRPC](htt
   1. Click the `Use this template` button, create a repository with it.
   2. Clone the repository, and run the command `yarn`.
   3. Setup [tRPC](https://trpc.io/) routes on the [src/server/routers/merge.ts](./src/server/routers/merge.ts) file.
-- Via Vercel (creates repository as well) [![Deploy with Vercel](https://i.imgur.com/ASDa2I6.png)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitsstacked%2Fstacked&env=NEXTAUTH_URL,SKIP_DOCKER,NEXTAUTH_SECRET,DATABASE_URL&demo-title=Web-FullStack-Starter&demo-description=This%20is%20a%20starterpack%20with%20ReactJs%2C%20tRPC%2C%20Prisma%2C%20NextJs%2C%20Next-Auth%2C%20Next-SEO%20%26%20Chakra-UI)
+- Via Vercel (creates repository as well) [![Deploy with Vercel](https://i.imgur.com/ASDa2I6.png)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitsstacked%2Fstacked-tailwind&env=NEXTAUTH_URL,SKIP_DOCKER,NEXTAUTH_SECRET,DATABASE_URL&demo-title=Web-FullStack-Starter&demo-description=This%20is%20a%20starterpack%20with%20ReactJs%2C%20tRPC%2C%20Prisma%2C%20NextJs%2C%20Next-Auth%2C%20Next-SEO%20%26%20Chakra-UI)
   While setting up the Environment Variables, please set the `SKIP_DOCKER` environment variable to `SKIP_DOCKER=1`. *(This ensures that the setup on Vercel is working via external `DATABASE_URL`)*
 
 Disclaimer: The Mouse Icon belongs to [Phosphor Icon](https://phosphoricons.com/) (MIT).
