@@ -213,32 +213,32 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.3.tgz#6801033be7ff87a6b7cadaf5b337c9f366a3c4b0"
   integrity sha512-WiBSI6JBIhC6LRIsB2Kwh8DsGTlbBU+mLRxJmAe3LjHTdkDpwIbEOZgoXBbZilk/vlfjK8i6nKRAvIRn1XaIMw==
 
-"@trpc/client@9.23.4":
-  version "9.23.4"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.23.4.tgz#d887d013ca9146299df1a33a1f13d57366a3483f"
-  integrity sha512-usZgbydmqqzUqJQD5yY9f+KftYBKz6ed0J90MYETqRwXl9XtR9kKOwRRMBQwZDdeMhai3Hlk4sDWeC9HR3auRQ==
+"@trpc/client@9.23.6":
+  version "9.23.6"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.23.6.tgz#e03f2366eff0cc056ed3aad3994acb553f889e01"
+  integrity sha512-O7PprFqK5aN5ruO3ZYlV+MDnLkmXkk+iSQCAzWBXIRZ3j8l0ZMMlq2C+zwJ9bfkaLMXiczZ6nMkqb8647dnf6g==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/next@9.23.4":
-  version "9.23.4"
-  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.23.4.tgz#45c4da34cd99b882aefa0ddc065dd23c5d5467a2"
-  integrity sha512-fPFU/PNkGawiUS56wRx3KsnRh/cvI3RtGYbZKIxLr38oYyHLct/v1uqA+0xJIoyPlcFDLoB6et4MZJuv3/v8Dg==
+"@trpc/next@9.23.6":
+  version "9.23.6"
+  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.23.6.tgz#530c792305f6b3d0c80bc48b789d976c0782b08d"
+  integrity sha512-ET4nAt8c+TzOfmMr5VWpa33hW8i9BxENY2Epk3BjmBZOd53aH+2z6pSNxYy9VGadT+r/rSBFcuVuEP2q6SfGDg==
   dependencies:
     "@babel/runtime" "^7.9.0"
     react-ssr-prepass "^1.5.0"
 
-"@trpc/react@9.23.4":
-  version "9.23.4"
-  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.23.4.tgz#6abb2bbabd76d72cc1a3fb72f6ecc33702cb1c3d"
-  integrity sha512-adori41F2hgjijThOmoeMkIXcaRjScZi6lczRwIIy6UqoUjYb+FfO46Jr7cP/QSX1Ur8VatD6UgLCNViURTfCQ==
+"@trpc/react@9.23.6":
+  version "9.23.6"
+  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.23.6.tgz#e207b5920dcae3f1b51d1094cd466b6075ca8987"
+  integrity sha512-pgw/sb5o3Q2vPDohQvIaoSuBPi/0uKXY8lHV6pBwiP45abuXZm4/BjQ9gx5oIPmGgX/KSaY/BN1io/NELtjo+A==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/server@9.23.4":
-  version "9.23.4"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.23.4.tgz#78ecebbdda79db6252067d66c4a0edef025a501b"
-  integrity sha512-nlOgft5g4BziNplDHhw7f4m9+k8lRPFtVVi8VGxOINt7sQ8pzzEti0WMIl2BX6gugw92t+kae2O5e793AFJs9g==
+"@trpc/server@9.23.6":
+  version "9.23.6"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.23.6.tgz#ec12dcf2eadc24f6a2ca4213fc4c17791e3f0828"
+  integrity sha512-xdoHjv0Km6kr7fBpu91rN3wURWGazUA7+dRquWywWLUDH3EiERg6n0Lkz/YgxH7n+liu6UkRs1Npjt6oo01+xA==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.8"
@@ -674,10 +674,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-concurrently@7.2.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.2.0.tgz#4d9b4d1e527b8a8cb101bc2aee317e09496fad43"
-  integrity sha512-4KIVY5HopDRhN3ndAgfFOLsMk1PZUPgghlgTMZ5Pb5aTrqYg86RcZaIZC2Cz+qpZ9DsX36WHGjvWnXPqdnblhw==
+concurrently@7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.2.1.tgz#88b144060443403060aad46f837dd17451f7e55e"
+  integrity sha512-7cab/QyqipqghrVr9qZmoWbidu0nHsmxrpNqQ7r/67vfl1DWJElexehQnTH1p+87tDkihaAjM79xTZyBQh7HLw==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.16.1"
@@ -2787,10 +2787,10 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
-zod@3.16.1:
-  version "3.16.1"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.16.1.tgz#f748482c14447a91f767fe5c0aa8378522dcad6b"
-  integrity sha512-IQXNNUWzINE6lz068lmEn3SPWNZWunQYEqakpw8DNVhfiYlU/rOgkUv4oGMXpK1xvcs6Q3o1GNanS+5n7lr0yg==
+zod@3.17.2:
+  version "3.17.2"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.17.2.tgz#d20b32146a3b5068f8f71768b4f9a4bfe52cddb0"
+  integrity sha512-L8UPS2J/F3dIA8gsPTvGjd8wSRuwR1Td4AqR2Nw8r8BgcLIbZZ5/tCII7hbTLXTQDhxUnnsFdHwpETGajt5i3A==
 
 zx@6.1.0:
   version "6.1.0"
